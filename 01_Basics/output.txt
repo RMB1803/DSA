@@ -1,0 +1,2 @@
+Value inside function: 104
+Value inside int main: 104
